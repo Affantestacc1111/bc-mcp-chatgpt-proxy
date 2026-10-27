@@ -1,1 +1,0 @@
-# bc-mcp-chatgpt-proxy
